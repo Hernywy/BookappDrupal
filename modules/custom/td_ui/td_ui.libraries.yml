@@ -1,0 +1,6 @@
+td.ui:
+  css:
+    theme:
+      css/td-ui.css: {}
+  js:
+    js/td-ui.js: {}

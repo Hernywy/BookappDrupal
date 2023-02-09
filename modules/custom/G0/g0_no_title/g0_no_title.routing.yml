@@ -1,0 +1,7 @@
+g0_no_title.admin_settings:
+  path: '/admin/config/g0_no_title'
+  defaults:
+    _form: '\Drupal\g0_no_title\Form\NoTitleConfigForm'
+    _title: 'Configure content type without title'
+  requirements:
+    _permission: 'administer site configuration'

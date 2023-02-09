@@ -1,0 +1,12 @@
+name: ToDo UI
+description: 'Graphical User Interface for the ToDo'
+package: ToDo
+
+type: module
+core_version_requirement: ^8.8.0 || ^9.0.0
+
+version: '1.0.0'
+
+project: td_ui
+'interface translation project': td_ui
+'interface translation server pattern': modules/custom/td_ui/translation/td_ui-%language.po

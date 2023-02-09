@@ -1,0 +1,5 @@
+<?php
+
+  function td_ui_preprocess_page(&$variables) {
+    $variables['#attached']['library'][] = 'td_ui/td.ui';
+  }
