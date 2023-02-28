@@ -1,6 +1,0 @@
-g0_no_title.admin:
-  title: 'G0 No Title configuration'
-  description: 'Allow hide title on pages of node creation'
-  parent: system.admin_config_system
-  route_name: g0_no_title.admin_settings
-  weight: 100
